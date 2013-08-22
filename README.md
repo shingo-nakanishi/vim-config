@@ -9,7 +9,7 @@ $ cd ~/my-config
 $ git clone git@github.com:shingo-nakanishi/vim-config.git
 ```
 
-### Edit ~/.zshrc
+### Edit ~/.vimrc
 Edit `~/.vimrc`.  
 
 Be careful This mean your `~/.vimrc` is deleted.
