@@ -17,3 +17,7 @@ Be careful This mean your `~/.vimrc` is deleted.
 ```
 source $HOME/my-config/vim-config/vimrc.vim
 ```
+
+### Install NeoBundle
+
+https://github.com/Shougo/neobundle.vim
