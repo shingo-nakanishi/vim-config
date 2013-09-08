@@ -43,4 +43,5 @@ so $HOME/my-config/vim-config/lib/v-my-command.vim
 so $HOME/my-config/vim-config/lib/v-syntax.vim
 so $HOME/my-config/vim-config/lib/v-omni.vim
 so $HOME/my-config/vim-config/lib/v-flodmethod.vim
+so $HOME/my-config/vim-config/lib/v-net-command.vim
 
