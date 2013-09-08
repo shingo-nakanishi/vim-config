@@ -16,4 +16,5 @@ elseif has('win32unix') " cygwin
   nnoremap fp :r! getclip<CR>
 endif
 
-
+command Colortest so $VIMRUNTIME/syntax/colortest.vim 
+command Hitest so $VIMRUNTIME/syntax/hitest.vim
